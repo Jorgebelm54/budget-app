@@ -1,0 +1,28 @@
+{
+  "name": "budget-your-life",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "lite-server": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgebelm54/budget-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    
+  },
+  "homepage": "https://github.com/jorgebelm54/budget-app#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "indexeddb": "^0.0.0",
+    "mongoose": "^5.13.14",
+    "morgan": "^1.10.0"
+  }
+}
